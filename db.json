@@ -1,0 +1,35 @@
+{
+  "tutores": [
+    {"id": 1,
+    "nome": "safira",
+    "telefone": "479999100100"
+  },
+   {"id": 2,
+    "nome": "maria",
+    "telefone": "47999910089"
+  },
+   {"id": 3,
+    "nome": "pedro",
+    "telefone": "479999100180"
+  }
+  ],
+  
+  "pets": [
+    {"id": 1,
+    "nome": "tobias",
+    "especie": "cachorro",
+    "tutorId": 1
+  },
+   {"id": 2,
+    "nome": "luna",
+    "especie": "gato",
+    "tutorId": 2
+  },
+   {"id": 3,
+    "nome": "rex",
+    "especie": "cachorro",
+    "tutorId": 3
+  }
+  ]
+
+}
